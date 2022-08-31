@@ -1,0 +1,10 @@
+^E:\CLG_PROJECT\PROJECT_3\RAW_3\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/clg_project/project_3/raw_3/windows -BE:/clg_project/project_3/raw_3/build/windows --check-stamp-file E:/clg_project/project_3/raw_3/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

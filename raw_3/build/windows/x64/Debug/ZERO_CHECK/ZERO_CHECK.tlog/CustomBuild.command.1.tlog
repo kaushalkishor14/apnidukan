@@ -1,0 +1,10 @@
+^E:\CLG_PROJECT\PROJECT_3\RAW_3\BUILD\WINDOWS\CMAKEFILES\CC4E218C682FC94ADF823E0AF70653F4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/clg_project/project_3/raw_3/windows -BE:/clg_project/project_3/raw_3/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/clg_project/project_3/raw_3/build/windows/raw_3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

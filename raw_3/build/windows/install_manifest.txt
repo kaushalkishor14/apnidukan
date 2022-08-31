@@ -1,0 +1,10 @@
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/icudtl.dat
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/flutter_windows.dll
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/assets/images/login.png
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/NOTICES
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/clg_project/project_3/raw_3/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
